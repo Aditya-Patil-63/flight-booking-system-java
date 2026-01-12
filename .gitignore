@@ -1,0 +1,9 @@
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Ignore all class files except those in bin
+*.class
+!bin/*.class
