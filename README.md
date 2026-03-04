@@ -1,6 +1,6 @@
 # ✈️ Flight Booking System
 
-## 📌 Java Mini Project
+## 📌 Java Project
 
 This project is a **Java-based Flight Booking System** developed as a **mini group project** using **core Object-Oriented Programming (OOP) concepts**.  
 It simulates the basic operations of an airline reservation system through a **console-based application**.
